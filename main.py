@@ -24,7 +24,8 @@ os.environ['JDK_JAVA_OPTIONS'] = '--add-opens=java.base/java.nio=ALL-UNNAMED --a
 #   .getOrCreate()
 
 
-# And :
+# And  the following configurations were tested:
+:
 # - 2 executors × 2 cores
 # - 4 executors × 2 cores
 # - 8 executors × 2 cores
